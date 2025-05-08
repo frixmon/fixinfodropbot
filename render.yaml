@@ -1,6 +1,0 @@
-services:
-  - type: worker
-    name: fixinfodropbot-api
-    runtime: python
-    buildCommand: ""
-    startCommand: "python main.py"
